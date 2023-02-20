@@ -12,7 +12,7 @@ I am currently working on:
 - MAXM8616: a biomedical sensor to detect heart frequency and oxigen (**C/C++**)
 - some small projects of computer vision with **Python and OpenCV**
 
-I pursued a student-athlete career for more than 15 years: this taught me to push mysself to the limit in every aspect of file and I always try to improve myself and my skills.
+I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills.
 
 <!--
 **CamillaMazzoleni/CamillaMazzoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
