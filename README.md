@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Camilla.
+
+I love engineering, artificial intelligence, computer science and mathematics: I am particularry interested in implementing technology to solve problems and improve efficiency.
+
+I have a strong attitude toward inventing, creating and building; this are the projects that I am very poud of
+- MyWallet: 
+
+I pursued a student-athlete career for more than 15 years: this taught me to push mysself to the limit in every aspect of file and I always try to improve myself and my skills.
 
 <!--
 **CamillaMazzoleni/CamillaMazzoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
