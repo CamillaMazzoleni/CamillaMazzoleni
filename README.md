@@ -9,7 +9,7 @@ I have a strong attitude toward inventing, creating and building; these are some
 - *XEV Roboter*: a robot arm that sort balls by color (Color recognition in **Python** with OpenCV, control of robot with **C++**)
 
 I am currently working on:
-- MAXM8616: a biomedical sensor to detect heart frequency and oxigen (**C/C++**)
+- MAX86916: a biomedical sensor to detect heart frequency and oxigen (**C/C++**)
 - some small projects of computer vision with **Python and OpenCV**
 
 I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills.
