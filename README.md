@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Camilla.
+My name is Camilla. 
 
 I love engineering, artificial intelligence, computer science and mathematics: I am particularry interested in implementing technology to solve problems and improve efficiency.
 
@@ -13,7 +13,7 @@ I am currently working on:
 - *ResearchTED*: an university project of an app to support research funds through watching TED talks (backend in **Python**, frontend in **Flutter**, **MongoDB**, **AWS**)
 - some small projects of computer vision with **Python and OpenCV**
 
-I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills.
+I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills. If you wanto other information about me read my website [Website link](https://camillamazzoleni.com/)
 
 <!--
 **CamillaMazzoleni/CamillaMazzoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
