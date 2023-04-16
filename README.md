@@ -7,6 +7,7 @@ I have a strong attitude toward inventing, creating and building; these are some
 - *MyWallet*: a platform of algorithmic trading (Statistical model in **R**, frontend in **ReactJS**)
 - *Mosuniq*: a machine to create mosaics (Image processing in **Python** to create a mosaic from an image, control of motion with **C++**)
 - *XEV Roboter*: a robot arm that sort balls by color (Color recognition in **Python** with OpenCV, control of robot with **C++**)
+- *RehubAI*: a platform that uses machine learning techniques to support rehabilitation
 
 I am currently working on:
 - *IoT_Sensor*: a fitband that interacts with a biomedical sensor to detect heart frequency and oxigen level(**C/C++**)
