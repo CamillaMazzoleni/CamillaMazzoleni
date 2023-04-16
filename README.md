@@ -9,11 +9,11 @@ I have a strong attitude toward inventing, creating and building; these are some
 - *XEV Roboter*: a robot arm that sort balls by color (Color recognition in **Python** with OpenCV, control of robot with **C++**)
 
 I am currently working on:
-- *IoT_Sensor*: a fitband that interact with a biomedical sensor to detect heart frequency and oxigen (**C/C++**)
+- *IoT_Sensor*: a fitband that interacts with a biomedical sensor to detect heart frequency and oxigen level(**C/C++**)
 - *ResearchTED*: an university project of an app to support research funds through watching TED talks (backend in **Python**, frontend in **Flutter**, **MongoDB**, **AWS**)
 - some small projects of computer vision with **Python and OpenCV**
 
-I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills. If you wanto other information about me read my website [CamillaMazzoleni.com](https://camillamazzoleni.com/)
+I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills. For other information about me read my website [CamillaMazzoleni.com](https://camillamazzoleni.com/)
 
 <!--
 **CamillaMazzoleni/CamillaMazzoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
