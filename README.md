@@ -10,7 +10,7 @@ I have a strong attitude toward inventing, creating and building; these are some
 
 I am currently working on:
 - *IoT_Sensor*: a fitband that interact with a biomedical sensor to detect heart frequency and oxigen (**C/C++**)
-- *ResearchTED*: an university project of an app to support research funds through watching TED taks (backend in **Python**, frontend in **Flutter**, **MongoDB**, **AWS**)
+- *ResearchTED*: an university project of an app to support research funds through watching TED talks (backend in **Python**, frontend in **Flutter**, **MongoDB**, **AWS**)
 - some small projects of computer vision with **Python and OpenCV**
 
 I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of file and I always try to improve myself and my skills.
