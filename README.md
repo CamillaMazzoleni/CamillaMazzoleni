@@ -10,9 +10,6 @@ I have a strong attitude toward inventing, creating and building; these are some
 - *RehubAI*: a startup idea of a platform that uses machine learning techniques to support rehabilitation
 - *IoT_Sensor*: a fitband that interacts with a biomedical sensor to detect heart frequency and oxigen level(**C/C++**)
 
-I am currently working on:
-- some small projects of computer vision with **Python and OpenCV**
-
 I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of life and I always try to improve myself and my skills. For other information about me read my website [CamillaMazzoleni.com](https://camillamazzoleni.com/)
 
 <!--
