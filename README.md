@@ -10,7 +10,7 @@ After struggling to find my way around ETH, I built a GPS-free indoor localizati
 A 3D generation pipeline akin to DALL·E — but for shapes. We use diffusion models to deform primitive representations into complex 3D objects.
 - ARPalace:
 A memory training tool using augmented reality. Built in 48h at the AIxGoogle Hackathon, won the competition, and received an acquisition offer from Braynr.ai.
-- Mosuniq
+- Mosuniq:
 A machine that builds physical mosaics from any image, entirely designed and built at 14. I developed a clustering algorithm to reduce color palettes, built a full motion-control system in C++, and soldered the electronics myself.
 - RehubAI:
 A startup idea to support physical rehabilitation using machine learning and pose estimation, born from my personal journey as a professional skier turned engineer.
