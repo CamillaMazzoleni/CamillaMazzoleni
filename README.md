@@ -14,11 +14,15 @@ A memory training tool using augmented reality. Built in 48h at the AIxGoogle Ha
 A machine that builds physical mosaics from any image, entirely designed and built at 14. I developed a clustering algorithm to reduce color palettes, built a full motion-control system in C++, and soldered the electronics myself.
 - RehubAI:
 A startup idea to support physical rehabilitation using machine learning and pose estimation, born from my personal journey as a professional skier turned engineer.
+
+
 Other projects include:
 
 - MyWallet: A React + R platform for algorithmic trading
 - XEV Roboter: A robot that sorts colored balls using OpenCV and C++
 - IoT_Sensor: A wearable that reads heart rate and oxygen saturation via biomedical sensors
+
+
 🏔 From Ski Slopes to Labs
 Before ETH, I was a student-athlete for over 15 years, competing at a high level in alpine skiing. That journey shaped my mindset: disciplined, resilient, and relentless.
 
