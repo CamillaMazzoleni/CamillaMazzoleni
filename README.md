@@ -1,28 +1,27 @@
-### Hi there 👋
-My name is Camilla. 
+Hi, I'm Camilla 👋
+I'm passionate about engineering, artificial intelligence, and applied mathematics. I love using technology to solve real-world problems, especially where software meets hardware.
 
-I love engineering, artificial intelligence, computer science and mathematics: I am particularry interested in implementing technology to solve problems and improve efficiency.
+I’m particularly drawn to building full-stack systems — from control logic and embedded devices to deep learning pipelines and intuitive user interfaces.
 
-I have a strong attitude toward inventing, creating and building; these are some of my projects:
-- *MyWallet*: a platform of algorithmic trading (Statistical model in **R**, frontend in **ReactJS**)
-- *Mosuniq*: a machine to create mosaics (Image processing in **Python** to create a mosaic from an image, control of motion with **C++**)
-- *XEV Roboter*: a robot arm that sort balls by color (Color recognition in **Python** with OpenCV, control of robot with **C++**)
-- *RehubAI*: a startup idea of a platform that uses machine learning techniques to support rehabilitation
-- *IoT_Sensor*: a fitband that interacts with a biomedical sensor to detect heart frequency and oxigen level(**C/C++**)
+🚀 Selected Projects
+- Localizr:
+After struggling to find my way around ETH, I built a GPS-free indoor localization system using image-based 3D reconstruction. It now supports ETH’s navigation infrastructure and is adaptable to warehouses or large vessels.
+- ShapeFlex (under submission):
+A 3D generation pipeline akin to DALL·E — but for shapes. We use diffusion models to deform primitive representations into complex 3D objects.
+- ARPalace:
+A memory training tool using augmented reality. Built in 48h at the AIxGoogle Hackathon, won the competition, and received an acquisition offer from Braynr.ai.
+- Mosuniq
+A machine that builds physical mosaics from any image, entirely designed and built at 14. I developed a clustering algorithm to reduce color palettes, built a full motion-control system in C++, and soldered the electronics myself.
+- RehubAI:
+A startup idea to support physical rehabilitation using machine learning and pose estimation, born from my personal journey as a professional skier turned engineer.
+Other projects include:
 
-I pursued a student-athlete career for more than 15 years: this taught me to push myself to the limit in every aspect of life and I always try to improve myself and my skills. For other information about me read my website [CamillaMazzoleni.com](https://camillamazzoleni.com/)
+- MyWallet: A React + R platform for algorithmic trading
+- XEV Roboter: A robot that sorts colored balls using OpenCV and C++
+- IoT_Sensor: A wearable that reads heart rate and oxygen saturation via biomedical sensors
+🏔 From Ski Slopes to Labs
+Before ETH, I was a student-athlete for over 15 years, competing at a high level in alpine skiing. That journey shaped my mindset: disciplined, resilient, and relentless.
 
-<!--
-**CamillaMazzoleni/CamillaMazzoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📎 Learn more on CamillaMazzoleni.com
+📫 Or reach out on LinkedIn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
