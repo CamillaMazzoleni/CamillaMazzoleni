@@ -1,7 +1,7 @@
 Hi, I'm Camilla 👋
 I'm passionate about engineering, artificial intelligence, and applied mathematics. I love using technology to solve real-world problems, especially where software meets hardware.
 
-I’m particularly drawn to building full-stack systems — from control logic and embedded devices to deep learning pipelines and intuitive user interfaces.
+I’m particularly drawn to building full-stack systems - from control logic and embedded devices to deep learning pipelines and intuitive user interfaces.
 
 🚀 Selected Projects
 - Localizr:
