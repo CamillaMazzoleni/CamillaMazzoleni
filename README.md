@@ -1,31 +1,38 @@
-Hi, I'm Camilla 👋
-I'm passionate about engineering, artificial intelligence, and applied mathematics. I love using technology to solve real-world problems, especially where software meets hardware.
+# Hi, I'm Camilla 👋
 
-I’m particularly drawn to building full-stack systems - from control logic and embedded devices to deep learning pipelines and intuitive user interfaces.
+I'm a robotics founder on a mission to **make industrial automation intelligent and bring manufacturing back to Europe.**
 
-🚀 Selected Projects
-- Localizr:
-After struggling to find my way around ETH, I built a GPS-free indoor localization system using image-based 3D reconstruction. It now supports ETH’s navigation infrastructure and is adaptable to warehouses or large vessels.
-- ShapeFlex (under submission):
-A 3D generation pipeline akin to DALL·E — but for shapes. We use diffusion models to deform primitive representations into complex 3D objects.
-- ARPalace:
-A memory training tool using augmented reality. Built in 48h at the AIxGoogle Hackathon, won the competition, and received an acquisition offer from Braynr.ai.
-- Mosuniq:
-A machine that builds physical mosaics from any image, entirely designed and built at 14. I developed a clustering algorithm to reduce color palettes, built a full motion-control system in C++, and soldered the electronics myself.
-- RehubAI:
-A startup idea to support physical rehabilitation using machine learning and pose estimation, born from my personal journey as a professional skier turned engineer.
+I co-founded **[FORGIS](https://www.forgis.com)** — where we raised a **$4.5M pre-seed in 36 hours** (5 term sheets, 3 from the US, 2 from the EU) and chose to stay in Europe, partnering with redalpine.
 
+I work where **software meets hardware** — from control logic and embedded devices to deep learning pipelines and the interfaces on top. ETH Robotics trained me; building a company taught me the rest.
 
-Other projects include:
+## 🤖 What I'm building now
 
-- MyWallet: A React + R platform for algorithmic trading
-- XEV Roboter: A robot that sorts colored balls using OpenCV and C++
-- IoT_Sensor: A wearable that reads heart rate and oxygen saturation via biomedical sensors
+**FORGIS** — intelligent industrial automation. We're rethinking how factories adapt to production that changes every week, not every decade. Based in Zurich, building for European industry.
 
+## 🚀 What we're building at FORGIS
 
-🏔 From Ski Slopes to Labs
-Before ETH, I was a student-athlete for over 15 years, competing at a high level in alpine skiing. That journey shaped my mindset: disciplined, resilient, and relentless.
+European manufacturing is stuck in the past — traditional automation is rigid, built for one part and one line. FORGIS makes it intelligent and adaptive. A few of the things I work on:
 
-📎 Learn more on CamillaMazzoleni.com
-📫 Or reach out on LinkedIn
+- **Industrial foundation model** — A single model that understands industrial telemetry, reasons about machine behavior, and supports operators across any robot, line, or factory floor. The intelligence layer for the factory.
+- **The builder community** — 1,000+ engineers and founders sharing off-the-record robotics demos and the manufacturing news engineers actually care about → [forgis.ai](https://www.forgis.ai)
+
+## 🛠 Before FORGIS
+
+Earlier projects, from ETH research to teenage builds:
+
+- **Localizr** — A GPS-free indoor localization system using image-based 3D reconstruction, built after getting lost one too many times at ETH. Now supports ETH's navigation infrastructure; adaptable to warehouses and large vessels.
+- **ShapeFlex** *(under submission)* — A 3D generation pipeline akin to DALL·E, but for shapes, using diffusion models to deform primitive representations into complex 3D objects.
+- **ARPalace** — A memory-training tool in augmented reality. Built in 48h at the AIxGoogle Hackathon, won the competition, and received an acquisition offer from Braynr.ai.
+- **Mosuniq** — A machine that builds physical mosaics from any image, designed and built at 14: a clustering algorithm for color-palette reduction, a full motion-control system in C++, and electronics I soldered myself.
+- **MyWallet** · **XEV Roboter** · **IoT_Sensor** — A React + R algorithmic-trading platform, an OpenCV + C++ ball-sorting robot, and a wearable biomedical sensor for heart rate and oxygen saturation.
+
+## 🏔 From Ski Slopes to Robotics
+
+Before ETH, I spent 15+ years as a student-athlete competing in alpine skiing — until a triple knee fracture ended that future in a single second. Starting over from zero shaped how I build: disciplined, resilient, relentless. I went from two failed startups to a funded robotics company at 23. 
+
+## 📫 Reach out
+
+- 🌐 [CamillaMazzoleni.com](https://camillamazzoleni.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/camilla-mazzoleni)
 
