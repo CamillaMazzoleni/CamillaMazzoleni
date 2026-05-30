@@ -2,20 +2,16 @@
 
 I'm a robotics founder on a mission to **make industrial automation intelligent and bring manufacturing back to Europe.**
 
-I co-founded **[FORGIS](https://www.forgis.com)** — where we raised a **$4.5M pre-seed in 36 hours** (5 term sheets, 3 from the US, 2 from the EU) and chose to stay in Europe, partnering with redalpine.
+I co-founded **[FORGIS](https://www.forgis.com)**, where we raised a **$4.5M pre-seed in 36 hours** (5 term sheets, 3 from the US, 2 from the EU) and chose to stay in Europe.
 
-I work where **software meets hardware** — from control logic and embedded devices to deep learning pipelines and the interfaces on top. ETH Robotics trained me; building a company taught me the rest.
-
-## 🤖 What I'm building now
-
-**FORGIS** — intelligent industrial automation. We're rethinking how factories adapt to production that changes every week, not every decade. Based in Zurich, building for European industry.
+I work where **software meets hardware**, from control logic and embedded devices to deep learning pipelines and the interfaces on top. ETH Robotics trained me; building a company taught me the rest.
 
 ## 🚀 What we're building at FORGIS
 
 European manufacturing is stuck in the past — traditional automation is rigid, built for one part and one line. FORGIS makes it intelligent and adaptive. A few of the things I work on:
 
-- **Industrial foundation model** — A single model that understands industrial telemetry, reasons about machine behavior, and supports operators across any robot, line, or factory floor. The intelligence layer for the factory.
-- **The builder community** — 1,000+ engineers and founders sharing off-the-record robotics demos and the manufacturing news engineers actually care about → [forgis.ai](https://www.forgis.ai)
+- **Industrial foundation model**: A single model that understands industrial telemetry, reasons about machine behavior, and supports operators across any robot, line, or factory floor. The intelligence layer for the factory.
+- **The builder community**: 1,000+ engineers and founders sharing off-the-record robotics demos and the manufacturing news engineers actually care about → ([https://www.forgis.ai](https://join.slack.com/t/forgis/shared_invite/zt-3zc0shfro-_tFYCnf_v_kN8HL1AfTo0Q))
 
 ## 🛠 Before FORGIS
 
