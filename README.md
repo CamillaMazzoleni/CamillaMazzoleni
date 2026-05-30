@@ -11,7 +11,7 @@ I work where **software meets hardware**, from control logic and embedded device
 European manufacturing is stuck in the past — traditional automation is rigid, built for one part and one line. FORGIS makes it intelligent and adaptive. A few of the things I work on:
 
 - **Industrial foundation model**: A single model that understands industrial telemetry, reasons about machine behavior, and supports operators across any robot, line, or factory floor. The intelligence layer for the factory.
-- **The builder community**: 1,000+ engineers and founders sharing off-the-record robotics demos and the manufacturing news engineers actually care about → ([https://www.forgis.ai](https://join.slack.com/t/forgis/shared_invite/zt-3zc0shfro-_tFYCnf_v_kN8HL1AfTo0Q))
+- **The builder community**: 1,000+ engineers and founders sharing off-the-record robotics demos and the manufacturing news engineers actually care about → ([Join us](https://join.slack.com/t/forgis/shared_invite/zt-3zc0shfro-_tFYCnf_v_kN8HL1AfTo0Q))
 
 ## 🛠 Before FORGIS
 
